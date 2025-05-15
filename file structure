@@ -1,0 +1,13 @@
+/nu-plumbers-electricians/
+│── index.html
+│── style.css
+│── script.js
+│── /assets/
+│   │── logo.png
+│   │── hero-bg.jpg
+│   │── service1.jpg
+│   │── service2.jpg
+│   │── service3.jpg
+│   │── facebook-icon.png
+│   │── whatsapp-icon.png
+│── /images/ (additional images would go here)
